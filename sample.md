@@ -14,11 +14,3 @@ sequenceDiagram
     user ->> app: request
     app -->> user: response
 ```
-
-```mermaid
-erDiagram
-    users {}
-    posts {}
-
-    users --{ posts
-```
