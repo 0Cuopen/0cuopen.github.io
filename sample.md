@@ -29,7 +29,7 @@
 - aaa
 - bbb
 
-```mermaid
+```mermaid!
 sequenceDiagram
   Actor User
   participant App
