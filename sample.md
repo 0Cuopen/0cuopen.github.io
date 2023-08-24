@@ -19,7 +19,6 @@ sequenceDiagram
 sequenceDiagram
   Actor User
   participant App
-
   User ->> App: access
   App -->> User: return
 </div>
