@@ -1,7 +1,9 @@
+{% include mermaid.html %}
+{% include footer-scripts.html.html %}
+
 # sample
 
 - aaa
-- bbb
 - ccc
 
 ```mermaid
