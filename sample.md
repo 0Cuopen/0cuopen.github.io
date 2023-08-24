@@ -19,7 +19,16 @@
   </div>
   <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
   <script>
-    mermaid.initialize({startOnLoad:true});
+    function initializeMermaid() {
+      mermaid.initialize({
+        startOnLoad:true,
+        theme: "default",
+      });
+      window.mermaid.init(
+        undefined,
+        document.querySelectorAll('.language-mermaid'),
+      );
+    }
   </script>
 </body>
 </html>
@@ -29,7 +38,7 @@
 - aaa
 - bbb
 
-```mermaid!
+```mermaid
 sequenceDiagram
   Actor User
   participant App
