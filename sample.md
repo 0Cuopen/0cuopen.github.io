@@ -1,4 +1,4 @@
-{% include_relative _include/mermaid.html %}
+{% include mermaid.html %}
 
 # sample
 
