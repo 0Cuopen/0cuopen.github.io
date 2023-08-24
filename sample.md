@@ -1,5 +1,4 @@
 {% include_relative _include/mermaid.html %}
-{% include_relative _include/footer-scripts.html %}
 
 # sample
 
