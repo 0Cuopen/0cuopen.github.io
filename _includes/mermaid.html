@@ -1,4 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 <script>
   mermaid.initialize({
     startOnLoad:true,
@@ -8,4 +8,12 @@
     undefined,
     document.querySelectorAll('.language-mermaid')
   );
+</script> -->
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: false });
+  await mermaid.run({
+    querySelector: 'pre > code.language-mermaid', // GitHub Flavored Markdownに合わせる
+  });
 </script>
