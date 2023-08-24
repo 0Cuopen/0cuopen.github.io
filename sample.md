@@ -1,56 +1,37 @@
-{%- if content contains 'mermaid' -%}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-<script>
-const config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart: {
-        useMaxWidth:false,
-        htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
-{% endif %}
+<html>
+  <head>
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+  </head>
+  <body>
+    <div class="mermaid">
+      graph LR
+        A--&gt;B
+    </div>
 
-```mermaid
-sequenceDiagram
-  Actor User
-  participant App
+    - aaa
+    - bbb
 
-  User ->> App: access
-  App ->> User: return
-```
+    # sample
 
-------------------------------------------------------------------
+    <div class="mermaid">
+      sequenceDiagram
+        Actor User
+        participant App
 
-<html lang="en">
-   <head>
-	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-    </head>
-
-<body>
- <pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
-
-<div class="mermaid">graph LR
-A--&gt;B
-</div>
-	
-</body>
-<script>
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
-
+        User ->> App: access
+        App ->> User: return
+    </div>
+  </body>
+  <script>
+  var config = {
+      startOnLoad:true,
+      theme: 'forest',
+      flowchart:{
+              useMaxWidth:false,
+              htmlLabels:true
+          }
+  };
+  mermaid.initialize(config);
+  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  </script>
 </html>
