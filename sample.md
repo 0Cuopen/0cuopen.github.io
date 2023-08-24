@@ -5,19 +5,14 @@
     </head>
 
 <body>
- <pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
-
-<div class="mermaid">
-sequenceDiagram
+ <pre><code class="language-mermaid">
+ sequenceDiagram
   actor user
   participant app
 
   user ->> app: request
   app -->> user: response
-</div>
-	
+</code></pre>
 </body>
 <script>
 var config = {
