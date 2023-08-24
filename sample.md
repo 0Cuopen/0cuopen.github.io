@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="utf-8">
@@ -24,3 +23,17 @@
   </script>
 </body>
 </html>
+
+# sample
+
+- aaa
+- bbb
+
+```mermaid
+sequenceDiagram
+  Actor User
+  participant App
+
+  User ->> App: access
+  App -->> User: return
+```
