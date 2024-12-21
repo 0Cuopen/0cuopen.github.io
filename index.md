@@ -1,10 +1,12 @@
 ---
 layout: default
-title: 0Cuopenのページ
+title: Welcome to 0cuopen's Blog
 ---
 
-# Welcome to My Page
+# Welcome to 0cuopen's Blog
 
-This is a stunning background with modern animations and parallax effects to make your GitHub Pages stand out.
+福岡在住の豚骨エンジニア🍜
 
-[Learn More](sample) {: .button }
+仕事や趣味のことなど💻⛰️🎣
+
+[Learn More](sample)
