@@ -1,7 +1,4 @@
-theme: jekyll-theme-minimal
-permalink: pretty
 markdown: kramdown
-
-# Include custom styles
-exclude:
-  - assets/css/
+theme: minima
+include:
+  - assets/css/style.css
