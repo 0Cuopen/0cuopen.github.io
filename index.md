@@ -7,4 +7,4 @@ title: 0Cuopenのページ
 
 This is a stunning background with modern animations and parallax effects to make your GitHub Pages stand out.
 
-[Learn More](#) {: .button }
+[Learn More](sample) {: .button }
