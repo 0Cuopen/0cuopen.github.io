@@ -10,3 +10,13 @@ title: Welcome to 0cuopen's Blog
 仕事や趣味のことなど💻⛰️🎣
 
 [Learn More](sample)
+
+<style>
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+</style>
