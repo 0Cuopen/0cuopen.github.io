@@ -111,7 +111,7 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 MVP: 必要最小限の製品。「Minimum Viable Product」の略
 
-DRY: コンピューターのプログラミングやシステム開発において、同じ処理や情報を複数回記述しないようにする設計原則。「Don't Repeat Yourself」の略
+DRY: 同じ処理や情報を複数回記述しないようにする設計原則。「Don't Repeat Yourself」の略
 
 YAGNI: 「必要なもの以外を実装するな」という考え方。「You Ain't Gonna Need It」の略
 
