@@ -25,7 +25,7 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 <div class="blog-container">
     <a href="my_startup_failure_story" class="blog-horizontal-card">
-        <img src="assets/images/nagano_office.jpg" alt="Blog Thumbnail" class="blog-thumbnail">
+        <img src="assets/images/nagano_office.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">起業戦記</h3>
             <p class="blog-description">実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績…</p>
