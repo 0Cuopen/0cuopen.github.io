@@ -10,18 +10,28 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 仕事や趣味のことなど💻⛰️🎣
 
-# Blogs
+# SNS
+
+<div class="sns-links">
+    <a href="https://x.com/0cuopen" target="_blank" class="sns-link twitter">
+        <img src="assets/images/x-logo-white.png" class="sns-logo">
+    </a>
+    <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank" class="sns-link wantedly">
+        <img src="assets/images/wantedly_logo_white.png" class="sns-logo">
+    </a>
+</div>
+
+# New Arrivals
 
 <div class="blog-container">
     <a href="my_startup_failure_story" class="blog-horizontal-card">
-        <img src="assets/images/thumbnail.webp" alt="Blog Thumbnail" class="blog-thumbnail">
+        <img src="assets/images/nagano_office.jpg" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">起業戦記</h3>
             <p class="blog-description">実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績…</p>
         </div>
     </a>
 </div>
-
 
 <style>
 p {
@@ -78,4 +88,46 @@ p {
     color: #666;
 }
 
+.sns-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.sns-link {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    transition: background-color 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+.sns-logo {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.sns-link.twitter:hover {
+    background-color: #000;
+}
+
+.sns-link.twitter:hover .sns-logo {
+    content: url("assets/images/x-logo-black.png");
+}
+
+.sns-link.wantedly:hover .sns-logo {
+    content: url("assets/images/wantedly_logo_black.png");
+}
+
+.sns-link.wantedly {
+    width: 90px;
+    height: 90px;
+}
 </style>

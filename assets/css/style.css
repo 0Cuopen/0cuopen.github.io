@@ -67,3 +67,38 @@ li {
   width: 90%;
   margin: 0 auto;
 }
+
+.blog-footer {
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.blog-footer p {
+  margin: 5px 0;
+}
+
+.blog-footer a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.blog-footer a:hover {
+  text-decoration: underline;
+}
+
+.back-to-home {
+  display: block;
+  margin-top: 15px;
+  font-size: 14px;
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.back-to-home:hover {
+  color: #ffffff;
+}
