@@ -25,7 +25,7 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 # 地獄の週100時間
 
-<img src="assets/images/nagano_office.JPG" alt="長野のオフィス兼自宅" class="blog_image" />
+<img src="assets/images/nagano_office.jpg" alt="長野のオフィス兼自宅" class="blog_image" />
 
 起業あるあるかもしれませんが、創業初期は週100時間働いて当然みたいな雰囲気があり我々もそれを採用することにしました。単純計算で1日あたり14.5時間労働です（週休0）。
 

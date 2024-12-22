@@ -101,8 +101,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fff;
-    border-radius: 10px;
     transition: background-color 0.3s ease-in-out;
     overflow: hidden;
 }
@@ -112,10 +110,6 @@ p {
     max-height: 100%;
     object-fit: contain;
     transition: opacity 0.3s ease-in-out;
-}
-
-.sns-link.twitter:hover {
-    background-color: #000;
 }
 
 .sns-link.twitter:hover .sns-logo {
