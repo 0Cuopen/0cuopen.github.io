@@ -35,3 +35,9 @@ p {
   margin: 0 auto;
   color: #fff;
 }
+
+.blog_image{
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
