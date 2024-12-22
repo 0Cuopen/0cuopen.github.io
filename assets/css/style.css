@@ -1,17 +1,28 @@
 /* Reset CSS */
+*,
+*::before,
+*::after {
+  box-sizing: border-box; /* パディングとボーダーを含めたサイズ計算にする */
+}
+
 body, html {
-  margin: 5px;
-  padding: 5px;
+  margin: 0;
+  padding: 0;
   width: 100%;
   height: 100%;
   font-family: Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 /* Background Animation */
 body {
+  padding: 10px;
   background: linear-gradient(120deg, #1e1e1e, #3a3a3a, #606060);
-  background-size: 300% 300%;
+  background-size: 400% 400%;
   animation: gradientAnimation 10s ease infinite;
+  background-repeat: no-repeat;
+  color: #fff;
+  max-width: 600px;
 }
 
 @keyframes gradientAnimation {
@@ -20,11 +31,11 @@ body {
   100% { background-position: 0% 50%; }
 }
 
+
 /* Content Section */
 h1 {
   font-size: 3em;
   margin-top: 20vh;
-  color: #fff;
   text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   text-align: center;
 }
@@ -32,13 +43,12 @@ h1 {
 p {
   font-size: 1.2em;
   line-height: 1.6;
-  max-width: 600px;
   margin: 0 auto;
-  color: #fff;
 }
 
 .blog_image{
   display: block;
-  width: 600px;
+  max-width: 600px;
+  width: 90%;
   margin: 0 auto;
 }

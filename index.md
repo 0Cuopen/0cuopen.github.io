@@ -38,7 +38,7 @@ p {
     display: flex;
     align-items: center;
     text-decoration: none;
-    background-color: #000;
+    background-color: #3a3a3a;
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
