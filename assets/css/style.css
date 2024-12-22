@@ -22,7 +22,6 @@ body {
   animation: gradientAnimation 10s ease infinite;
   background-repeat: no-repeat;
   color: #fff;
-  max-width: 600px;
 }
 
 @keyframes gradientAnimation {
@@ -44,6 +43,14 @@ p {
   font-size: 1.2em;
   line-height: 1.6;
   margin: 0 auto;
+  max-width: 600px;
+}
+
+ul {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 600p
 }
 
 .blog_image{
