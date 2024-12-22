@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome to 0cuopen's Blog
+image: https://0cuopen.net/assets/images/thumbnail.webp
 ---
 
 # Welcome to 0cuopen's Blog
