@@ -3,6 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="{{ page.image | default: site.image }}">
+    <meta property="og:url" content="{{ page.url }}">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href='../assets/css/style.css'>
 </head>
