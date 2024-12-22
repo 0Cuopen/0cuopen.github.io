@@ -53,6 +53,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 # 良かったこと
 
+<div class="ul_wrapper">
+
 - 上記のカオスを20代前半のたった1年間で経験できた
   - おそらく新卒の会社でそのまま働いていたら一生経験することのなかった出来事のオンパレード
   - tryすれば意外となんとかなるという精神が身についた
@@ -64,7 +66,11 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 - 料理がちょっとだけできるようになった
   - 週代わりでメンバーが全員分の料理を作っていた
 
+</div>
+
 # 反省点
+
+<div class="ul_wrapper">
 
 - 目標が全て無謀すぎてもはや意味をなしていなかった
   - 例えばリリースしたばかりのプロダクトで「今週売り上げ100万円取るぞ！」みたいな
@@ -76,6 +82,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 - 古い付き合いの友人だったが解散後は疎遠になってしまった
   - 最後にお金周りでちょっとだけ揉めた
   - 解散時は本当に無一文で縁もゆかりもない長野からどうやって脱出するのかというリアル脱出ゲーム状態だった
+
+</div>
 
 MVP: 必要最小限の製品。「Minimum Viable Product」の略
 

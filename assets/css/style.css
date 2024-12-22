@@ -16,7 +16,7 @@ body, html {
 
 /* Background Animation */
 body {
-  padding: 10px;
+  padding: 10px 10px 40px 10px;
   background: linear-gradient(120deg, #1e1e1e, #3a3a3a, #606060);
   background-size: 400% 400%;
   animation: gradientAnimation 10s ease infinite;
@@ -49,8 +49,16 @@ p {
 ul {
   font-size: 1.2em;
   line-height: 1.6;
+}
+
+li {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+.ul_wrapper {
   margin: 0 auto;
-  max-width: 600p
+  max-width: 600px;
 }
 
 .blog_image{
