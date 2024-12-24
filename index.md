@@ -25,6 +25,15 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # New Arrivals
 
 <div class="blog-container">
+    <a href="what_is_api" class="blog-horizontal-card">
+        <img src="assets/images/api_sequence.png" alt="Blog Thumbnail" class="blog-thumbnail">
+        <div class="blog-content">
+            <h3 class="blog-title">APIとは何か</h3>
+            <p class="blog-description">バックエンドエンジニア（以下、BEエンジニア）は多くの場合、APIと呼ばれるものを作っています。例えば「iOSエンジニアです」と言われたら</p>
+        </div>
+    </a>
+</div>
+<div class="blog-container">
     <a href="my_startup_failure_story" class="blog-horizontal-card">
         <img src="assets/images/nagano_office.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
@@ -91,6 +100,7 @@ p {
     -webkit-box-orient: vertical;
     overflow: hidden;
     -webkit-line-clamp: 2;
+    text-align: left;
 }
 
 .sns-links {
