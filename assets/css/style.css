@@ -73,7 +73,7 @@ pre {
   overflow-x: auto;
 }
 
-.table {
+table {
   display: table;
   max-width: 600px;
   margin: 0 auto;
