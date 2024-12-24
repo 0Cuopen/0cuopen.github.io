@@ -25,6 +25,15 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # New Arrivals
 
 <div class="blog-container">
+    <a href="best_buy_for_outdoor_gear_2024" class="blog-horizontal-card">
+        <img src="assets/images/n_box.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
+        <div class="blog-content">
+            <h3 class="blog-title">アウトドア用品 BEST BUY 2024</h3>
+            <p class="blog-description">趣味というか仕事柄というか、自然と戯れることが多いので今年のBEST BUYを適当に書いていきます。</p>
+        </div>
+    </a>
+</div>
+<div class="blog-container">
     <a href="what_is_api" class="blog-horizontal-card">
         <img src="assets/images/api_sequence.png" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
