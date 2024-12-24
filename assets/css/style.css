@@ -69,7 +69,8 @@ a:hover {
   display: table;
   max-width: 600px;
   margin: 0 auto;
-  border-color: #fff;
+  border: 2px solid #fff;
+  border-collapse: collapse;
 }
 
 .blog_image{
