@@ -29,7 +29,7 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
         <img src="assets/images/nagano_office.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">起業戦記</h3>
-            <p class="blog-description">実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績…</p>
+            <p class="blog-description">実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績もない</p>
         </div>
     </a>
 </div>
@@ -87,6 +87,10 @@ p {
     margin: 0;
     font-size: 14px;
     color: #666;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
 }
 
 .sns-links {
