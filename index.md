@@ -11,17 +11,6 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 仕事や趣味のことなど💻⛰️🎣
 
-# SNS
-
-<div class="sns-links">
-    <a href="https://x.com/0Cuopen" target="_blank" class="sns-link twitter">
-        <img src="assets/images/x-logo-white.png" class="sns-logo">
-    </a>
-    <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank" class="sns-link wantedly">
-        <img src="assets/images/wantedly_logo_white.png" class="sns-logo">
-    </a>
-</div>
-
 # New Arrivals
 
 <div class="blog-container">
@@ -49,6 +38,17 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
             <h3 class="blog-title">起業戦記</h3>
             <p class="blog-description">実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績もない</p>
         </div>
+    </a>
+</div>
+
+# SNS
+
+<div class="sns-links">
+    <a href="https://x.com/0Cuopen" target="_blank" class="sns-link twitter">
+        <img src="assets/images/x-logo-white.png" class="sns-logo">
+    </a>
+    <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank" class="sns-link wantedly">
+        <img src="assets/images/wantedly_logo_white.png" class="sns-logo">
     </a>
 </div>
 
