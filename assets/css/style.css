@@ -77,8 +77,12 @@ table {
   display: table;
   max-width: 600px;
   margin: 0 auto;
-  border: 2px solid #fff;
   border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #fff;
+  padding: 10px;
 }
 
 .blog_image{
