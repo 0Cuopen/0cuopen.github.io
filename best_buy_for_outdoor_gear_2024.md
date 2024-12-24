@@ -35,7 +35,7 @@ image: https://0cuopen.net/assets/images/n_box.JPG
 
 # 第1位
 
-<img src="assets/images/n_box.JPG">
+<img src="assets/images/n_box.JPG" class="blog_image">
 
 ## HONDA [N BOX（2012年式）](https://www.honda.co.jp/auto-archive/nbox/2012/)
 
