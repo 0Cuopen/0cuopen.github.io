@@ -35,7 +35,6 @@ main {
   max-width: 600px;
 }
 
-/* Content Section */
 h1 {
   font-size: 3em;
   margin-top: 20vh;
@@ -64,6 +63,13 @@ a {
 
 a:hover {
   color: lightgray;
+}
+
+.table {
+  display: table;
+  max-width: 600px;
+  margin: 0 auto;
+  border-color: #fff;
 }
 
 .blog_image{
