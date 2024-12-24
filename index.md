@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Welcome to 0cuopen's Blog
-description: 0cuopenのブログです
+title: Welcome to 0Cuopen's Blog
+description: 0Cuopenのブログです
 image: https://0cuopen.net/assets/images/thumbnail.webp
 ---
 
-# Welcome to 0cuopen's Blog
+# Welcome to 0Cuopen's Blog
 
 福岡在住の豚骨エンジニア🍜
 
@@ -14,7 +14,7 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # SNS
 
 <div class="sns-links">
-    <a href="https://x.com/0cuopen" target="_blank" class="sns-link twitter">
+    <a href="https://x.com/0Cuopen" target="_blank" class="sns-link twitter">
         <img src="assets/images/x-logo-white.png" class="sns-logo">
     </a>
     <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank" class="sns-link wantedly">
