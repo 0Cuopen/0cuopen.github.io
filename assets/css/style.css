@@ -30,6 +30,10 @@ body {
   100% { background-position: 0% 50%; }
 }
 
+main {
+  margin: 0 auto;
+  max-width: 600px;
+}
 
 /* Content Section */
 h1 {
@@ -42,8 +46,6 @@ h1 {
 p {
   font-size: 1.2em;
   line-height: 1.6;
-  margin: 0 auto;
-  max-width: 600px;
 }
 
 ul {
@@ -56,21 +58,18 @@ li {
   line-height: 1.6;
 }
 
-.ul_wrapper {
-  margin: 0 auto;
-  max-width: 600px;
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: lightgray;
 }
 
 .blog_image{
   display: block;
-  max-width: 600px;
   width: 90%;
   margin: 0 auto;
-}
-
-footer {
-  margin: 0 auto;
-  max-width: 600px;
 }
 
 .blog-footer {
