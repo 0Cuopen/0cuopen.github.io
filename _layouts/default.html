@@ -14,22 +14,35 @@
     <meta name="twitter:url" content="{{ page.url }}">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href='../assets/css/style.css'>
+    <style>
+        .particles-wrapper {
+            position: relative;
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
-    <main>
-        {{ content }}
-    </main>
+    <div class="particles-wrapper">
+        <div id="particles-js"></div>
+        <header>
+            <script src="../javascript/particles.min.js"></script>
+            <script src="../javascript/app.js"></script>
+        </header>
+        <main>
+            {{ content }}
+        </main>
 
-    <footer class="blog-footer">
-        <div class="container">
-            <p>&copy; 2024 My Blog. All rights reserved.</p>
-            <p>
-                Follow me on 
-                <a href="https://x.com/0cuopen" target="_blank">X</a> |
-                <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank">Wantedly</a>
-            </p>
-            <a href="/" class="back-to-home">Home</a>
-        </div>
-    </footer>
+        <footer class="blog-footer">
+            <div class="container">
+                <p>&copy; 2024 My Blog. All rights reserved.</p>
+                <p>
+                    Follow me on 
+                    <a href="https://x.com/0cuopen" target="_blank">X</a> |
+                    <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank">Wantedly</a>
+                </p>
+                <a href="/" class="back-to-home">Home</a>
+            </div>
+        </footer>
+    </div>
 </body>
 </html>
