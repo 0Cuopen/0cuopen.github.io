@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="{{ page.image }}">
+    <meta property="og:url" content="{{ page.url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image" content="{{ page.image | https://0cuopen.net/assets/images/thumbnail.webp }}">
+    <meta name="twitter:url" content="{{ page.url }}">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href='../assets/css/style.css'>
+</head>
+<body>
+    <div id="particles-js"></div>
+    <main>
+        {{ content }}
+    </main>
+
+    <footer class="blog-footer">
+        <div class="container">
+            <p>&copy; 2024 My Blog. All rights reserved.</p>
+            <p>
+                Follow me on 
+                <a href="https://x.com/0cuopen" target="_blank">X</a> |
+                <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank">Wantedly</a>
+            </p>
+            <a href="/" class="back-to-home">Home</a>
+        </div>
+    </footer>
+    <script src="../javascript/particles.min.js"></script>
+</body>
+</html>
