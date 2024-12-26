@@ -1,11 +1,11 @@
 ---
 layout: default
-title: アウトドア用品 BEST BUY 2024
+title: GEAR OF THE YEAR 2024
 description: 趣味というか仕事柄というか、自然と戯れることが多いので今年のBEST BUYを適当に書いていきます。
 image: https://0cuopen.net/assets/images/n_box.JPG
 ---
 
-# アウトドア用品 BEST BUY 2024
+# GEAR OF THE YEAR 2024
 
 趣味というか仕事柄というか、自然と戯れることが多いので今年のBEST BUYを適当に書いていきます。
 
@@ -24,6 +24,8 @@ image: https://0cuopen.net/assets/images/n_box.JPG
 価格：¥63,800
 
 # 第2位
+
+<img src="assets/images/altra.jpg" class="blog_image">
 
 ## ALTRA [OLYMPUS 6 HIKE LOW GTX](https://altrafootwear.jp/products/olympushikelowgtx2m24fw)
 
