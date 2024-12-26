@@ -14,13 +14,6 @@
     <meta name="twitter:url" content="{{ page.url }}">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href='../assets/css/style.css'>
-    <style>
-        .particles-wrapper {
-            width: 100%;
-            height: 700px;
-            position: relative;
-        }
-    </style>
 </head>
 <body>
     <header>
@@ -28,10 +21,8 @@
         <script src="../javascript/app.js"></script>
     </header>
     <main>
-        <div class="particles-wrapper">
-            <div id="particles-js"></div>
-            {{ content }}
-        </div>
+        <div id="particles-js"></div>
+        {{ content }}
     </main>
 
     <footer class="blog-footer">
