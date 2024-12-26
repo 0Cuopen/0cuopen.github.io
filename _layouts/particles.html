@@ -14,22 +14,14 @@
     <meta name="twitter:url" content="{{ page.url }}">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href='../assets/css/style.css'>
-    <style>
-        .particles-wrapper {
-            position:relative;
-        }
-    </style>
 </head>
-<body>
+<body id="particles-js">
     <header>
         <script src="../javascript/particles.min.js"></script>
         <script src="../javascript/app.js"></script>
     </header>
     <main>
-        <div class="particles-wrapper">
-            <div id="particles-js"></div>
-            {{ content }}
-        </div>
+        {{ content }}
     </main>
 
     <footer class="blog-footer">
