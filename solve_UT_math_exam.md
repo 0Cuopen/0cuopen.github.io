@@ -40,6 +40,7 @@ print(integral_result)
 
 
 $xy平面上でtを変数とする媒介変数表示$
+
 $$
 \left\{
 \begin{aligned}
