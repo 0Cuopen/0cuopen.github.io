@@ -14,6 +14,15 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # New Arrivals
 
 <div class="blog-container">
+    <a href="solve_UT_math_exam" class="blog-horizontal-card">
+        <img src="assets/images/ut_graph.png" alt="Blog Thumbnail" class="blog-thumbnail">
+        <div class="blog-content">
+            <h3 class="blog-title">東大数学をPythonで解いてみた</h3>
+            <p class="blog-description">大した理由はないのですが東大数学をPythonで解いてみたくなったのでいくつか解きやすそうな問題を選定してやってみました。</p>
+        </div>
+    </a>
+</div>
+<div class="blog-container">
     <a href="gear_of_the_year_2024" class="blog-horizontal-card">
         <img src="assets/images/n_box.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
