@@ -45,10 +45,13 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 
 <div class="sns-links">
     <a href="https://x.com/0Cuopen" target="_blank" class="sns-link twitter">
-        <img src="assets/images/x-logo-white.png" class="sns-logo">
+        <img src="assets/images/logo/x_white.png" class="sns-logo">
     </a>
     <a href="https://www.wantedly.com/id/hiraku_endo" target="_blank" class="sns-link wantedly">
-        <img src="assets/images/wantedly_logo_white.png" class="sns-logo">
+        <img src="assets/images/logo/wantedly_white.png" class="sns-logo">
+    </a>
+    <a href="https://github.com/0Cuopen" target="_blank" class="sns-link github">
+        <img src="assets/images/logo/github_white.png" class="sns-logo">
     </a>
 </div>
 
@@ -137,15 +140,19 @@ p {
 }
 
 .sns-link.twitter:hover .sns-logo {
-    content: url("assets/images/x-logo-black.png");
+    content: url("assets/images/logo/x_black.png");
+}
+
+.sns-link.github:hover .sns-logo {
+    content: url("assets/images/logo/github_black.png");
 }
 
 .sns-link.wantedly:hover .sns-logo {
-    content: url("assets/images/wantedly_logo_black.png");
+    content: url("assets/images/logo/wantedly_black.png");
 }
 
 .sns-link.wantedly {
-    width: 90px;
+    width: 100px;
     height: 90px;
 }
 </style>
