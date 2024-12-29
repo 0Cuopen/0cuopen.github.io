@@ -14,8 +14,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # New Arrivals
 
 <div class="blog-container">
-    <a href="solve_UT_math_exam" class="blog-horizontal-card">
-        <img src="assets/images/ut_graph.png" alt="Blog Thumbnail" class="blog-thumbnail">
+    <a href="2024/12/29/solve_UT_math_exam" class="blog-horizontal-card">
+        <img src="2024/12/29/images/ut_graph.png" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">東大数学をPythonで解いてみた</h3>
             <p class="blog-description">大した理由はないのですが東大数学をPythonで解いてみたくなったのでいくつか解きやすそうな問題を選定してやってみました。</p>
@@ -23,8 +23,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
     </a>
 </div>
 <div class="blog-container">
-    <a href="gear_of_the_year_2024" class="blog-horizontal-card">
-        <img src="assets/images/n_box.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
+    <a href="2024/12/27/gear_of_the_year_2024" class="blog-horizontal-card">
+        <img src="2024/12/27/images/n_box.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">GEAR OF THE YEAR 2024</h3>
             <p class="blog-description">趣味というか仕事柄というか、自然と戯れることが多いので今年のBEST BUYを適当に書いていきます。</p>
@@ -32,8 +32,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
     </a>
 </div>
 <div class="blog-container">
-    <a href="what_is_api" class="blog-horizontal-card">
-        <img src="assets/images/api_sequence.png" alt="Blog Thumbnail" class="blog-thumbnail">
+    <a href="2024/12/25/what_is_api" class="blog-horizontal-card">
+        <img src="2024/12/25/images/api_sequence.png" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">APIとは何か</h3>
             <p class="blog-description">バックエンドエンジニア（以下、BEエンジニア）は多くの場合、APIと呼ばれるものを作っています。例えば「iOSエンジニアです」と言われたら</p>
@@ -41,8 +41,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
     </a>
 </div>
 <div class="blog-container">
-    <a href="my_startup_failure_story" class="blog-horizontal-card">
-        <img src="assets/images/nagano_office.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
+    <a href="2024/12/24/my_startup_failure_story" class="blog-horizontal-card">
+        <img src="2024/12/24/images/nagano_office.JPG" alt="Blog Thumbnail" class="blog-thumbnail">
         <div class="blog-content">
             <h3 class="blog-title">起業戦記</h3>
             <p class="blog-description">実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績もない</p>

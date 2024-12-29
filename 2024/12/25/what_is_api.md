@@ -2,7 +2,7 @@
 layout: default
 title: APIとは何か
 description: バックエンドエンジニア（以下、BEエンジニア）は多くの場合、APIと呼ばれるものを作っています。
-image: https://0cuopen.net/assets/images/api_sequence.png
+image: https://0cuopen.net/2024/12/25/images/api_sequence.png
 ---
 
 # はじめに

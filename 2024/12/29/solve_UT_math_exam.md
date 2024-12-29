@@ -2,7 +2,7 @@
 layout: default
 title: 東大数学をPythonで解いてみた
 description: 大した理由はないのですが東大数学をPythonで解いてみたくなったのでいくつか解きやすそうな問題を選定してやってみました。
-image: https://0cuopen.net/assets/images/ut_graph.png
+image: https://0cuopen.net/2024/12/29/images/ut_graph.png
 ---
 
 # 東大数学をPythonで解いてみた

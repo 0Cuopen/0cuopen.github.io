@@ -2,7 +2,7 @@
 layout: default
 title: GEAR OF THE YEAR 2024
 description: 趣味というか仕事柄というか、自然と戯れることが多いので今年のBEST BUYを適当に書いていきます。
-image: https://0cuopen.net/assets/images/n_box.JPG
+image: https://0cuopen.net/2024/12/27/images/n_box.JPG
 ---
 
 # GEAR OF THE YEAR 2024

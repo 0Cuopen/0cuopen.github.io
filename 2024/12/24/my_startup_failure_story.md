@@ -2,7 +2,7 @@
 layout: default
 title: 起業戦記
 description: 実はコロナ大流行時に若気の至りで起業していたことがありました。新卒で入社した上場企業を1年足らずで退職しスキルも実績…
-image: https://0cuopen.net/assets/images/nagano_office.JPG
+image: https://0cuopen.net/2024/12/24/images/nagano_office.JPG
 ---
 
 # 起業戦記
