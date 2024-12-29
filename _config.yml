@@ -2,3 +2,5 @@ markdown: kramdown
 theme: minima
 include:
   - assets/css/style.css
+plugins:
+- jekyll-sitemap
