@@ -39,6 +39,13 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6361192638921952"
         crossorigin="anonymous">
     </script>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: false });
+        await mermaid.run({
+          querySelector: 'pre > code.language-mermaid', // GitHub Flavored Markdownに合わせる
+        });
+    </script>
 </head>
 <body>
     <main>
