@@ -97,11 +97,6 @@ sequenceDiagram
   API -->> X: JSONに整形して返答（レスポンス）
   X --> User: タイムラインが描画される
 ```
-<style>
-  pre {
-    background-color: #ccc;
-  }
-</style>
 
 # APIはいつ使われているのか
 
