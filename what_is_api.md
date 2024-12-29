@@ -82,7 +82,26 @@ DBから受け取った情報をアプリなどで表示するために、決め
 
 上記のリクエストに従ってDBを操作し、何らかのJSONをフロントエンド側に返答すること
 
-<img src="assets/images/api_sequence.png" alt="api_sequence" class="blog_image">
+```mermaid
+%%{init: {'theme': 'default', 'securityLevel': 'loose'}}%%
+sequenceDiagram
+  Actor User
+  participant X AS X(Twitter)
+  participant API
+  participant DB
+
+  User ->> X: https://x.com/homeにアクセス
+  X ->> API: フォロワーのツイート情報をください（リクエスト）
+  API ->> DB: フォロワーのツイート情報を取得
+  DB -->> API: 見つけた！
+  API -->> X: JSONに整形して返答（レスポンス）
+  X --> User: タイムラインが描画される
+```
+<style>
+  pre {
+    background-color: #fff;
+  }
+</style>
 
 # APIはいつ使われているのか
 
