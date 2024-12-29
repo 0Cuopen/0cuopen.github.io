@@ -19,8 +19,11 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # mermaid
 
 ```mermaid
-%%{init: {'theme': 'default', 'securityLevel': 'loose'}}%%
-
+%%{init: {'theme': 'default', 'securityLevel': 'loose', 'themeVariables': {
+  'primaryColor': '#1f77b4',
+  'nodeTextColor': '#ffffff',
+  'edgeLabelBackground': '#444444'
+}}}%%
 sequenceDiagram
   Actor User
   participant API
@@ -31,3 +34,8 @@ sequenceDiagram
   DB -->> API: return
   API -->> User: return
 ```
+<style>
+  pre {
+    all: unset;
+  }
+</style>
