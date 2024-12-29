@@ -81,7 +81,7 @@ plt.show()
 
 実行結果
 
-<img src="assets/images/ut_graph.png" alt="ut_graph" class="blog_image">
+<img src="images/ut_graph.png" alt="ut_graph" class="blog_image">
 
 一番手間取ったのは`matplotlib`のimportでした。
 

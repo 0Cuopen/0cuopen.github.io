@@ -25,7 +25,7 @@ image: https://0cuopen.net/2024/12/24/images/nagano_office.JPG
 
 # 地獄の週100時間
 
-<img src="assets/images/nagano_office.JPG" alt="長野のオフィス兼自宅" class="blog_image" />
+<img src="images/nagano_office.JPG" alt="長野のオフィス兼自宅" class="blog_image" />
 
 起業あるあるかもしれませんが、創業初期は週100時間働いて当然みたいな雰囲気があり我々もそれを採用することにしました。単純計算で1日あたり14.5時間労働です（週休0）。
 
@@ -35,7 +35,7 @@ image: https://0cuopen.net/2024/12/24/images/nagano_office.JPG
 
 # プロダクト
 
-<img src="assets/images/donotpay.png" alt="donotpay" class="blog_image" />
+<img src="images/donotpay.png" alt="donotpay" class="blog_image" />
 
 当初はC向けのリーガルテックのプロダクトを実装していました。当時の国内のリーガルテックは僕たちの調べた限りだとほぼB向けのプロダクトばかりで、法律の壁などもありC向けはハードルが高かったのだと思います。
 

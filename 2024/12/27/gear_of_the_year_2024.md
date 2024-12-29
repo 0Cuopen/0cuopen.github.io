@@ -11,7 +11,7 @@ image: https://0cuopen.net/2024/12/27/images/n_box.JPG
 
 # 第3位
 
-<img src="assets/images/crossover_dome.jpg" class="blog_image">
+<img src="images/crossover_dome.jpg" class="blog_image">
 
 ## HERITAGE [クロスオーバードーム＜2G＞](https://heritage.co.jp/Gears/COD_2G.html)
 
@@ -25,7 +25,7 @@ image: https://0cuopen.net/2024/12/27/images/n_box.JPG
 
 # 第2位
 
-<img src="assets/images/altra.jpg" class="blog_image">
+<img src="images/altra.jpg" class="blog_image">
 
 ## ALTRA [OLYMPUS 6 HIKE LOW GTX](https://altrafootwear.jp/products/olympushikelowgtx2m24fw)
 
@@ -37,7 +37,7 @@ image: https://0cuopen.net/2024/12/27/images/n_box.JPG
 
 # 第1位
 
-<img src="assets/images/n_box.JPG" class="blog_image">
+<img src="images/n_box.JPG" class="blog_image">
 
 ## HONDA [N BOX（2012年式）](https://www.honda.co.jp/auto-archive/nbox/2012/)
 
