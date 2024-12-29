@@ -19,6 +19,8 @@ image: https://0cuopen.net/assets/images/thumbnail.webp
 # mermaid
 
 ```mermaid
+%%{init: {'theme': 'default', 'securityLevel': 'loose'}}%%
+
 sequenceDiagram
   Actor User
   participant API
