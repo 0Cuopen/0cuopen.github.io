@@ -83,7 +83,7 @@ DBから受け取った情報をアプリなどで表示するために、決め
 上記のリクエストに従ってDBを操作し、何らかのJSONをフロントエンド側に返答すること
 
 ```mermaid
-%%{init: {'theme': 'default', 'securityLevel': 'loose'}}%%
+%%{init: {'theme': 'dark', 'securityLevel': 'loose'}}%%
 sequenceDiagram
   Actor User
   participant X AS X(Twitter)
@@ -99,7 +99,7 @@ sequenceDiagram
 ```
 <style>
   pre {
-    background-color: #fff;
+    background-color: #ccc;
   }
 </style>
 
